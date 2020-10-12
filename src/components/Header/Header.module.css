@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  padding: 10px;
+}
+
+.brand-name {
+  font-weight: 600;
+  color: #2196f3;
+  flex: 1;
+  text-align: left;
+  font-size: 19px;
+}
+
+.add-new-widget {
+  text-align: right;
+  flex: 1;
+}
+
+.add-new-link {
+  font-weight: 600;
+  cursor: pointer;
+}

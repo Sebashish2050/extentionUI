@@ -1,0 +1,32 @@
+.widget-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.widget-item {
+  background: whitesmoke;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 3px;
+  border: 2px solid transparent;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 1px 1px;
+  flex: 1 300px;
+  /* max-width: 47%; */
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.widget-item:hover {
+  background: #fff;
+  border: 2px solid #f6f6f6;
+}
+
+.widget-title {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.widget-desc {
+  font-size: 13px;
+  color: #a7a7a7;
+}

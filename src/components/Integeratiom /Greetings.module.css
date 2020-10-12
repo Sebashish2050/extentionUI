@@ -1,0 +1,13 @@
+.greeting {
+  display: block;
+  font-size: 2rem;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.name:hover {
+  border-bottom: 2px dashed red;
+  cursor: ;
+}

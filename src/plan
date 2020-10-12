@@ -1,0 +1,59 @@
+
+Redux State
+    widgets [
+        {position, id: wdasda}
+    ]
+    metrics:
+       wdasda: {            
+           config: {
+
+           },
+           type: 'Blog' 
+           last_updated,
+           last_data
+       }
+    }
+
+
+
+Grid -> widgets
+    Metrics -> widgetId
+        (Compont)
+
+            Google Analytics (HOC)
+            BBC 
+            NDTV
+            STICK
+            CountdownTimer
+            --
+            --
+            --
+            --
+                SimpleWidget
+                Blog Widget
+                STOCK            
+
+
+HOC -> 
+    Data 
+    Fetch/Compute 
+        -> SimpleWidget
+
+
+
+
+1. Setting up Redux
+2. Grid
+
+
+1. HOC
+2. Configuration 
+
+
+
+
+
+
+
+
+

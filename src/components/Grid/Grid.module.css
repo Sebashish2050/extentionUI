@@ -1,0 +1,7 @@
+.grid {
+  display: flex;
+  align-items: center;
+  width: 900px;
+  min-height: 600px;
+  margin: auto;
+}

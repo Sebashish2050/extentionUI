@@ -1,0 +1,18 @@
+.config-component {
+  display: flex;
+}
+
+.config-container {
+  padding: 20px;
+  flex: 1;
+  border-right: 1px solid #c3c1c1;
+  box-sizing: border-box;
+}
+
+.preview-container {
+  flex: 1;
+}
+
+.formItem {
+  margin-bottom: 10px;
+}
